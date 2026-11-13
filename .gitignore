@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+
+# Local Xcode state (shared schemes stay versioned)
+xcuserdata/
+*.xcuserstate
+
+# Build products and test results
+/build/
+/DerivedData/
+*.xcresult
+*.xcarchive
+*.dSYM/
+
+# Local signing material
+*.p12
+*.mobileprovision
+*.provisionprofile
