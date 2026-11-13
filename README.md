@@ -1,6 +1,8 @@
-# Popup
+# FloatFrame — macOS Screen Mirror
 
-Popup is a macOS menu bar utility that keeps a selected screen region visible in a floating live mirror while you work. Capture uses ScreenCaptureKit and stays on your Mac; the app does not save or upload captured content.
+FloatFrame is a native macOS menu bar app for live screen region mirroring in always-on-top floating windows. Keep a video, reference, or part of another app visible while you work, with a picture-in-picture style screen mirror built with SwiftUI and ScreenCaptureKit. Capture stays on your Mac; the app does not save or upload captured content.
+
+The current macOS app, menu bar item, and Xcode project use the name **Popup**. The setup instructions below use those names so they match the app.
 
 ## Requirements
 
